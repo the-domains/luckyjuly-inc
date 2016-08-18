@@ -1,4 +1,3 @@
-layout_spectrum: 0.4829804855398834
 typography_spectrum: 0.09369199769571424
 color:
   brandStrength: 0.3449148330837488
@@ -6,9 +5,11 @@ color:
   saturation: 0.047732345294207335
   rhythmicContrast: 0.7682891129516065
   brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.4829804855398834
 name: LuckyJuly Inc.
+title: Welcome to LuckyJuly
